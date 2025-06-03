@@ -1,0 +1,16 @@
+# Build output
+/out/
+/target/
+
+# Generated data
+/data/bavli.txt
+/data/shas/
+/data/index.txt
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Java compiled files
+*.class
