@@ -2,6 +2,9 @@
 
 A Java-based application for searching and navigating the entire Talmud Bavli by tractate (masechet), page (daf), and folio (amud), or by free text.
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Talmud--Bavli--Search-blue?logo=github)](https://github.com/menachem-dev-tech/talmud-bavli-search)
+
+
 ---
 
 ## 📦 Features
