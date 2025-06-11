@@ -87,6 +87,7 @@ Enter daf (e.g. 'ברכות דף ג עמוד ב')
 
 ## 🚧 To Do (Future Enhancements)
 
+* [ ] Implement search by Mishnah chapter
 * [ ] Add Javadoc and code comments
 * [ ] Improve file naming for readability
 * [ ] Export index as JSON
